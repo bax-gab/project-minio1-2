@@ -19,7 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b01945bb-cb8b-4da4-b61a-755b1562cfb5" name="Default Changelist" comment="First write">
+    <list default="true" id="b01945bb-cb8b-4da4-b61a-755b1562cfb5" name="Default Changelist" comment="Edits/adds">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/more.readDir.go" beforeDir="false" afterPath="$PROJECT_DIR$/more.readDir.go" afterDir="false" />
     </list>
@@ -140,7 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First write" />
-    <option name="LAST_COMMIT_MESSAGE" value="First write" />
+    <MESSAGE value="Edits/adds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edits/adds" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -195,9 +196,10 @@
     </state>
     <state x="210" y="368" key="SettingsEditor/52.23.2508.1417@52.23.2508.1417" timestamp="1604693779573" />
     <state x="212" y="368" key="SettingsEditor/54.23.2506.1417@54.23.2506.1417" timestamp="1604055337348" />
-    <state x="263" y="467" key="Vcs.Push.Dialog.v2" timestamp="1604696338055">
-      <screen x="52" y="23" width="2508" height="1417" />
+    <state x="261" y="467" key="Vcs.Push.Dialog.v2" timestamp="1604699703356">
+      <screen x="50" y="23" width="2510" height="1417" />
     </state>
+    <state x="261" y="467" key="Vcs.Push.Dialog.v2/50.23.2510.1417@50.23.2510.1417" timestamp="1604699703356" />
     <state x="263" y="467" key="Vcs.Push.Dialog.v2/52.23.2508.1417@52.23.2508.1417" timestamp="1604696338055" />
     <state x="155" y="123" width="1017" height="1213" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604694233493">
       <screen x="52" y="23" width="2508" height="1417" />
