@@ -6,12 +6,19 @@ import (
 	"log"
 )
 
+func readthenwrite() {
+
+}
+
 func main() {
-	localfiles, err := ioutil.ReadDir(".")
+	var filecounter int
+	localfiles, err := ioutil.ReadDir("/Users/gb/go/junkfiles")
 	if err != nil {
 		log.Fatal(err)
 	}
 	for _, f := range localfiles {
-		fmt.Println(f.Size(), "Directory?:", f.IsDir(), f.Mode, f.ModTime())
+		fmt.Println(f.Name(), f.Size(), "Directory?:", f.IsDir(), f.Mode, f.ModTime())
+		filecounter++
 	}
+	fmt.Println("\n", "Number of files processed: ", filecounter, len(localfiles))
 }
