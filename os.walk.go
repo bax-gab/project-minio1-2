@@ -32,7 +32,7 @@ func main() {
 	os.Chdir(tmpDir)
 
 	subDirToSkip := "skip"
-
+	// test
 	fmt.Println("On Unix:")
 	err = filepath.Walk(".", func(path string, info os.FileInfo, err error) error {
 		if err != nil {
