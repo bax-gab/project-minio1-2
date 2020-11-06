@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b01945bb-cb8b-4da4-b61a-755b1562cfb5" name="Default Changelist" comment="First write">
+      <change beforePath="$PROJECT_DIR$/os.walk.go" beforeDir="false" afterPath="$PROJECT_DIR$/os.walk.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1javx9Ub6LNBDGzXdaxRRQ5X9F8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build channels.go">
+    <configuration name="go build channels.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project-minio1-2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/channels.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build minio-upload.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project-minio1-2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/minio-upload.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build more.readDir.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project-minio1-2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/more.readDir.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build os.walk.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project-minio1-2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/os.walk.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ranges.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project-minio1-2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ranges.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build channels.go" />
+        <item itemvalue="Go Build.go build ranges.go" />
+        <item itemvalue="Go Build.go build more.readDir.go" />
+        <item itemvalue="Go Build.go build os.walk.go" />
+        <item itemvalue="Go Build.go build minio-upload.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First write" />
+    <option name="LAST_COMMIT_MESSAGE" value="First write" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="580" key="#Notifications" timestamp="1604695675081">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="404" y="580" key="#Notifications/52.23.2508.1417@52.23.2508.1417" timestamp="1604695675081" />
+    <state x="343" y="411" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1604498117183">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="343" y="411" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1604498117183" />
+    <state x="487" y="606" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604055902959">
+      <screen x="54" y="23" width="2506" height="1417" />
+    </state>
+    <state x="487" y="606" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/54.23.2506.1417@54.23.2506.1417" timestamp="1604055902959" />
+    <state x="522" y="653" key="Github.ShareDialog" timestamp="1604695866501">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="522" y="653" key="Github.ShareDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1604695866501" />
+    <state width="1175" height="407" key="GridCell.Tab.0.bottom" timestamp="1604694849114">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1175" height="407" key="GridCell.Tab.0.bottom/52.23.2508.1417@52.23.2508.1417" timestamp="1604694849114" />
+    <state width="1299" height="407" key="GridCell.Tab.0.bottom/53.23.2507.1417@53.23.2507.1417" timestamp="1604493636576" />
+    <state width="1299" height="407" key="GridCell.Tab.0.bottom/54.23.2506.1417@54.23.2506.1417" timestamp="1604057133559" />
+    <state width="1175" height="407" key="GridCell.Tab.0.center" timestamp="1604694849114">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1175" height="407" key="GridCell.Tab.0.center/52.23.2508.1417@52.23.2508.1417" timestamp="1604694849114" />
+    <state width="1299" height="407" key="GridCell.Tab.0.center/53.23.2507.1417@53.23.2507.1417" timestamp="1604493636575" />
+    <state width="1299" height="407" key="GridCell.Tab.0.center/54.23.2506.1417@54.23.2506.1417" timestamp="1604057133558" />
+    <state width="1175" height="407" key="GridCell.Tab.0.left" timestamp="1604694849114">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1175" height="407" key="GridCell.Tab.0.left/52.23.2508.1417@52.23.2508.1417" timestamp="1604694849114" />
+    <state width="1299" height="407" key="GridCell.Tab.0.left/53.23.2507.1417@53.23.2507.1417" timestamp="1604493636575" />
+    <state width="1299" height="407" key="GridCell.Tab.0.left/54.23.2506.1417@54.23.2506.1417" timestamp="1604057133558" />
+    <state width="1175" height="407" key="GridCell.Tab.0.right" timestamp="1604694849114">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1175" height="407" key="GridCell.Tab.0.right/52.23.2508.1417@52.23.2508.1417" timestamp="1604694849114" />
+    <state width="1299" height="407" key="GridCell.Tab.0.right/53.23.2507.1417@53.23.2507.1417" timestamp="1604493636576" />
+    <state width="1299" height="407" key="GridCell.Tab.0.right/54.23.2506.1417@54.23.2506.1417" timestamp="1604057133558" />
+    <state x="210" y="368" key="SettingsEditor" timestamp="1604693779573">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="210" y="368" key="SettingsEditor/52.23.2508.1417@52.23.2508.1417" timestamp="1604693779573" />
+    <state x="212" y="368" key="SettingsEditor/54.23.2506.1417@54.23.2506.1417" timestamp="1604055337348" />
+    <state x="263" y="467" key="Vcs.Push.Dialog.v2" timestamp="1604696228037">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="263" y="467" key="Vcs.Push.Dialog.v2/52.23.2508.1417@52.23.2508.1417" timestamp="1604696228037" />
+    <state x="155" y="123" width="1017" height="1213" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604694233493">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="155" y="123" width="1017" height="1213" key="com.intellij.history.integration.ui.views.FileHistoryDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1604694233493" />
+    <state x="476" y="653" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604695786543">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="476" y="653" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/52.23.2508.1417@52.23.2508.1417" timestamp="1604695786543" />
+  </component>
+</project>
