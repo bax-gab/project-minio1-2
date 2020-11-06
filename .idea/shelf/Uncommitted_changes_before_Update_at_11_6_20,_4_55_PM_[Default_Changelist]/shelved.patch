@@ -1,0 +1,14 @@
+Index: more.readDir.go
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package main\n\nimport (\n\t\"fmt\"\n\t\"io/ioutil\"\n\t\"log\"\n)\n\nfunc readthenwrite() {\n\n}\n\nfunc main() {\n\tvar filecounter int\n\tlocalfiles, err := ioutil.ReadDir(\"/Users/gb/go/junkfiles\")\n\tif err != nil {\n\t\tlog.Fatal(err)\n\t}\n\tfor _, f := range localfiles {\n\t\tfmt.Println(f.Name(), f.Size(), \"Directory?:\", f.IsDir(), f.Mode, f.ModTime())\n\t\tfilecounter++\n\t}\n\tfmt.Println(\"\\n\", \"Number of files processed: \", filecounter, len(localfiles))\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- more.readDir.go	(revision a18f9a1e1b2993e2f1125b2bf41352162229b8d9)
++++ more.readDir.go	(date 1604699681348)
+@@ -22,3 +22,4 @@
+ 	}
+ 	fmt.Println("\n", "Number of files processed: ", filecounter, len(localfiles))
+ }
++
